@@ -1,3 +1,26 @@
+1.14.0 - Chase the Skies drop update!
+- Updated pack to work in 1.21.4 - 1.21.8
+- Resource pack minimum version is now 1.21.4
+- Added oarless pale oak boats
+- Removed 1.20 overlays folder
+	- Because of this, pre-1.21.2 shaders such as simplified glowing effect, or bright armor trims were removed entirely.
+- Readjusted pack format
+- Fixed armor slots textures not having its textures
+- Fixed elytra broken texture not showing up
+- Updated splash texts :P
+- Removed green axolotl texture
+- Added variated unique axolotl buckets
+- Added variated unique paintings
+- Replaced glowing ores with an universal currently working version, because shaders got changed in 1.21.
+- Added old ghast pixel consistency textures for happy ghasts [https://www.planetminecraft.com/texture-pack/good-ol-ghasts/]
+- Moved old fog to its own folder because old fog isn't working in 25w16a+
+- Reverted clouds to the pattern before 25w21a and mixed with pattern after 25w21a+
+- Fixed goat horn not having textures when used
+- Added <=beta 1.7 item tooltips
+- Removed custom textures for tools
+- Added old styled textures for meat foods (porkchop, beef and mutton)
+- Added new sweeping edge sounds
+
 1.13.1 - The bundles of bravery update (full changelog):
 
 - Updated pack to work on 1.21.2 and 1.21.3
