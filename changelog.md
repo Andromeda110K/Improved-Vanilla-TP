@@ -1,3 +1,14 @@
+1.14.1
+- Updated pack to load in 1.21.9 snapshots
+(However, take note that some things are BROKEN due to pack.mcmeta being changed, this includes:
+	- New additions, such as axolotl unique items, unique paintings, happy ghasts, etc
+	- Shaders, such as old fog
+Anyways, when I figure out how to fix backwards compatibility I'll surely update the mcmeta!)
+- Added missing copper door item models
+	- This includes the models for all oxidized stages
+- Added zoglin and zombified piglin spawn egg consistent textures (previously they were pink, now they match)
+- Sightly tweaked hoglin, piglin brute and piglin spawn eggs to match zombified versions
+
 1.14.0 - Chase the Skies drop update!
 - Updated pack to work in 1.21.4 - 1.21.8
 - Resource pack minimum version is now 1.21.4
