@@ -3,6 +3,7 @@
 (However, take note that some things are BROKEN due to pack.mcmeta being changed, this includes:
 	- New additions, such as axolotl unique items, unique paintings, happy ghasts, etc
 	- Shaders, such as old fog
+ 
 Anyways, when I figure out how to fix backwards compatibility I'll surely update the mcmeta!)
 - Added missing copper door item models
 	- This includes the models for all oxidized stages
