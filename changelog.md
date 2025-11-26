@@ -1,3 +1,15 @@
+1.15
+- Updated pack to work in 1.21.9+
+- Pack minimum version is now 1.21.9, older versions aren't supported anymore
+- Removed unused folders for older versions
+- Rewrote pack.mcmeta to new standard introduced in 1.21.9
+- Added copper nugget textures like iron and gold nuggets
+- Added copper sword textures
+- Added copper armour textures matching the other armour textures
+- Added copper bar 3D item models as iron bars
+- Added 3D item models for copper lanterns and its variations
+- Added workaround classic fog for pre-release versions of 1.21.11
+
 1.14.1
 - Updated pack to load in 1.21.9 snapshots
 (However, take note that some things are BROKEN due to pack.mcmeta being changed, this includes:
@@ -89,3 +101,4 @@ Anyways, when I figure out how to fix backwards compatibility I'll surely update
 - Fixed nether wart and bowl having missing textures
 - Added 3D item model for pale oak signs
 - Separated bedrock leaves as an add-on to reduce performance issues in Vanilla
+
