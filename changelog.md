@@ -1,4 +1,4 @@
-1.15
+1.15 - Fall and Copper drop update
 - Updated pack to work in 1.21.9+
 - Pack minimum version is now 1.21.9, older versions aren't supported anymore
 - Removed unused folders for older versions
@@ -101,4 +101,5 @@ Anyways, when I figure out how to fix backwards compatibility I'll surely update
 - Fixed nether wart and bowl having missing textures
 - Added 3D item model for pale oak signs
 - Separated bedrock leaves as an add-on to reduce performance issues in Vanilla
+
 
