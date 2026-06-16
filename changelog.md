@@ -1,3 +1,27 @@
+1.16 - Tiny Takeover and Chaos Cubed drop update
+- Updated pack to work in 26.1 and beyond
+- Pack minimum version is now 26.1, older versions not supported
+- Changed pack.png icon to Cyrene (she's too pretty!!)
+- Added [old texture and model for beacons from 12w36a](https://www.planetminecraft.com/texture-pack/snapshot-beacons/)
+- Moved copper textures to main assets folder
+- Renamed "new_additions" folder to "variations" as the texture pack no longer supports 1.21 versions
+- Added sulfur cube bucket textures for Sulfur drop (26.2)
+- Removed old debug stick custom texture
+- Fixed custom entity textures not showing properly, this includes:
+	- Witches
+	- Blazes
+	- Minecarts
+	- Shields
+	- Guardians
+	- Experience orbs
+	- Beacon beams
+	- Phantoms
+	- Wandering Traders
+	- Elytra
+This change was made at somepoint in 1.21 releases by moving all of them to its own dedicated folder inside textures > entity
+- Added consistency for baby zombie piglins and zoglins textures to match their adult counterparts
+- Added arabic numerals for enchantments and potions for english and spanish languages
+
 1.15 - Fall and Copper drop update
 - Updated pack to work in 1.21.9+
 - Pack minimum version is now 1.21.9, older versions aren't supported anymore
