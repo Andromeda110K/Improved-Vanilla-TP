@@ -1,0 +1,123 @@
+1.2 - A "tiny" technical and parity update
+- Updated pack to work on Minecraft version 26.10+
+- Pack minimum version is now Minecraft 26.10
+- Removed old lang files and updated them
+- Changed the style of hearts when using potion effects [https://www.planetminecraft.com/texture-pack/java-l-effect-consistent-hearts-l-by-robonate135/]
+- Revamped heart textures
+- Fixed freezing heart textures not showing
+- Added back explosion particles from 1.14.4, matching snapshot 25w33a
+- Fixed spear rendering incorrectly
+- Added missing textures for consistent zombified piglins
+- Added consistent textures for baby zombified piglins and baby hoglins, matching their adult counterparts
+- Added old lava texture
+- Added arabic numerals for enchantments and potions for english and spanish languages
+- Added back nether fog, to be consistent with Java
+- Reverted cloud texture changes to vanilla ones
+- Removed custom sun and moon textures to match Java pack
+- Added sulfur cube bucket items
+- Added and fixed old lava texture animation [https://mcpedl.com/old-lava-restored/]
+- Removed ender pearl item texture as it doesn't match Java pack
+- Added classic cod style for spawn egg, food, item and entity
+- Shift clicking items no longer show animation, matching Java Edition
+- Added classic egg styles for brown and blue egg item textures, matching normal egg
+- Updated textures for armor and equipment icons (they used the previous textures of armor and sword items)
+- Updated weakness and strength effect icons using outdated texture
+- Added logs for pale oak and poplar hanging signs GUIs, matching the block
+- Fixed strays having invisible eyes
+- Added unobtrusive scaffolding
+- Cauldron water is now less clearer
+- Removed lantern and soul lantern top textures
+- Removed chain texture as it's no longer used
+- Removed annoying marketplace "Browse Add-ons" button on pause menu //srsly Mojang, why did you do that? ._.
+- Crimson logs are now vanilla-like, no longer have a red tint
+- Added circular log tops for all wood types. This includes stripped logs
+- Fixed bottom texture of dried kelp
+- Start screen buttons now match Java Edition colors
+- Added subtitles for sound definitions
+- Removed player critical hit sound as it is now in Vanilla
+- Removed beta 1.7.3 biome and foliage colormap as it is now unused
+- Added missing Java pack particles and colors. This includes:
+	- Critical hit particles (red)
+	- Bow and Evoker fangs particles (red)
+	- Enchanting table particles (purple)
+	- Annoyed villager particles
+- Sightly modified armor slot textures and brewing fuel slot textures, adapting to Dark UI
+- All nether blocks are now brighter, increasing the sight-readability
+- Added Dark UI for default subpack and Java subpack
+- Removed Realms and Marketplace buttons from main menu screen
+- Loading messages no longer contain marketplace-related texts [https://mcpedl.com/marketplace-hider/]
+- Fixed UI containers text colors being black when using Dark UI
+- Fixed start screen buttons being gray when hovered with Dark UI
+- Fixed furnace toggle smeltables not being consistent when hovered
+- Removed smooth textures for granite, diorite and andesite
+- Removed dirt background in panorama and replaced it instead with the old white overlay from versions 1.15 and below (applies to Java subpack)
+- Added BUGROCK EDITION text logo for default subpack [https://mcpedl.com/minecraft-bugrock-title/] //yes, I had to do this
+
+1.1 - Chase the Skies drop update
+- Updated pack to work on Minecraft version 1.21.90+
+- Pack minimum version is now 1.21.90
+- Removed old redstone torch texture
+- Added missing textures
+- Updated texts
+- Clouds are now its style before Clear the Skies mixed with the original style
+- Fixed the metal-ish sound being played when doing a critical hit
+- Added old style happy ghasts textures
+- Removed custom tool textures
+- Removed 3D mace due to modeling issues
+- Updated player in first and third person animations (Java Aspects updated)
+- Revamped and fixed world fog, now all biomes have the same fog value
+- Fixed water fog not being the same as Java
+- Fixed water fog distance
+
+1.0.0 - The big release!
+
+- Updated pack to 1.21+
+- Minimum pack version is now 1.21.0
+- Removed ALL legacy model animations.
+- Partially fixed crashes on low end mobile devices
+- Removed client-only capes.
+- Removed glowing trident and glowing glow squids.
+- Removed UI textures introduced in release 1.4.4
+- Removed VDX UI high contrast textures.
+- Java subpack is now compatible with VDX Desktop UI 3.1.0
+- Fixed lower shield
+- Apparently, Mojang actually fixed potions' weird names
+- No more warnings about UI issues
+- Added Java pack missing textures:
+	- Normal decorated pot
+	- Illager textures
+	- Normal shulker texture
+	- Hanging signs
+	- Bogged
+	- Trident riptide
+	- Smithing table
+	- Scaffolding (unobtrusive)
+	- Dye item textures
+- Added Java beta 1.7.3 grass and foliage colormaps
+- Added Java pre-1.6.4 fog distance
+- Added more splash texts
+- Fixed beds geometry not working properly
+- Fixed fog colors for all biomes
+- Removed Java water tint to keep Bedrock water color in biomes
+- Removed old textures for experience bar
+- Added Java experience bar texture
+- Removed bottom chat for normal subpack
+- Added XXVI's glowing armor trims
+	- Note: armor's enchanted glint in entities is invisible due to this. Can't fix.
+- Language files are now universal, and they're updated (Credits to Netongas NG)
+- Removed items_client.json
+- Removed redstone torch textures, in wait until new redstone torch textures are added
+- Fixed vexes having wrong textures
+- Changed trident textures
+- Changed enchantment glint
+- Removed smiling bees
+- Removed smiling axolotls
+- Added java pre-1.4.2 wood and stone block sounds
+- Removed custom netherite armor textures
+- Removed HD items
+- Cleaned and removed unused textures and files
+- Added back block breaking particles
+- Added Java particles
+- Added working 3D mace
+- Fixed incompatibilities with most non-animation changer resource packs
+- Updated Java GUI ui textures to match Java Edition 1.13.1 pack version
