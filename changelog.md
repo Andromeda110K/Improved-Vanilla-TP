@@ -1,3 +1,53 @@
+1.18 - Dark UI Update:
+
+Snapshot changes:
+- Updated pack to work in 26.3 snapshots
+- Added 3D item models to new poplar wood, this includes:
+	- Doors
+	- Hanging signs
+	- Signs
+- Added fencier fences for poplar wood
+- Added fencier fence gates for poplar wood
+
+Normal changes:
+- Pack minimum Minecraft version is now 26.2+
+- Added classic cod style for cod spawn egg, matching the food item and entity
+- Removed unique dyes to match with vanilla style, this includes:
+	- White
+	- Magenta
+	- Lime
+	- Pink
+	- Grey
+	- Purple
+- Added an animation to wind charge item texture [https://www.planetminecraft.com/texture-pack/animated-wind-charge-and-brush/]
+- Updated weakness and strength effect icons using outdated texture
+- Removed classic button hovered colors
+- Added Dark GUI (old GUI still saved inside textures > gui > old_gui)
+- Fixed brewing stand fuel icon showing vanilla blaze powder instead of pack blaze powder outline
+- All nether blocks are now brighter, increasing the sight-readability
+- Removed blockstates for saplings as they're obsolete and unused
+- Cleaned some unused item models
+- Fixed armor stand bottom texture not being consistent with smooth stone texture
+- Removed dirt background in panorama and replaced it instead with the old white overlay from versions 1.15 and below
+
+1.17 - A "slight" technical update:
+- Reverted clouds to their original vanilla texture
+- Fixed sticky piston heads not showing proper textures
+- Fixed hanging signs logs not showing proper textures
+- Fixed sign textures not working properly
+- Fixed textures for sign items not rendering correctly
+- Added logs for hanging signs GUI, matching the block texture
+- Added and fixed hanging signs item models, tweaking its position
+- Removed lantern and soul lantern textures, matching chain textures
+- Added custom egg textures to match normal eggs, this includes:
+	- Blue cold eggs
+	- Brown warm eggs
+- Fixed minecarts with chests item models
+- Chests and Ender chests now have proper break particles when broken
+- Removed colormap textures as now they're useless
+- Crimson log and wood is now vanilla-like, no longer red colored
+
+
 1.16 - Tiny Takeover and Chaos Cubed drop update
 - Updated pack to work in 26.1 and beyond
 - Pack minimum version is now 26.1, older versions not supported
