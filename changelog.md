@@ -1,3 +1,66 @@
+1.19 - Fall drop update:
+- Updated pack to work in Minecraft version 26.3
+- Pack.mcmeta maximum version is now the latest snapshot resource pack version instead of a fixed number
+- Removed "incompatible resource pack" warning when using with Sodium
+- Fixed fog not working correctly
+- Added new subfolders for fogs:
+	- fog_88 (>=26.2 → <=26.3 snapshot 4)
+	- fog_93 (>=26.3 snapshot 5)
+- Removed Dark UI (temporarily and possibly indefinitely), got broken in 26.3 snapshot 5 :(
+	- While this UI doesn't work, original light UI got updated with small tweaks:
+		- Updated recipe book button texture
+		- All buttons now have a white outline when hovered combined with a blue highlight color
+		- Removed unused textures for containers
+		- Recipe book arrows are now pixel consistent and smaller
+- Added Brewing stand guide in Brewing stand GUI
+	- Updated icons in brewing guide GUI to match mob effect icons
+	- Slime and stone blocks inside brewing guide GUI are now 3D rendered instead of flat images
+- Arabic numerals now work for all languages
+- Cushions now have a 3D item model
+- Cushions item models are now inside `models > item > cushion` instead of `models > item`
+- Updated crafting filter and furnace filter toggle textures to match Bedrock Edition pack
+- Changed pack.png icon to Evernight (I love her so much! <3)
+- Replaced 2D animated wind charge to a 3D animated wind charge item model
+- Reverted creeper face to its iconic, vanilla look (he's not angry anymore!)
+- Fixed Weathered Copper Lanterns not having 3D item models
+- Heavy Core held item position is now like Bedrock Edition
+- End portal frame item model is now fixed completely
+- End portal texture is now darker instead of fully black
+- Reintroduced boss bars from pack version 1.2, now fully functional
+- Fixed Pale Oak and Poplar fencier fences not showing correct textures
+- Fixed the frog texture swap introduced in pack version 1.8
+- Added new texture for frog spawn egg
+- Added old styled textures for chicken and rabbit food (consistency with the ones added in pack version 1.14)
+- Note block item texture now shows side texture with screen (00, F# as default)
+- Wolf armor is now plane, for consistency with player leather armor
+- Added, after five years, proper textures for powered and non powered hoppers
+- Hopper arrows now match Bedrock Edition pack
+- Hopper arrows no longer render inside, now they render only outside
+- Tweaked mace item model to match Bedrock Edition
+- Spyglass now resembles its crafting recipe (copper as the base, and amethyst shard as the glass)
+- Added a subtle enchantment glint for items and armors, but keeping it Vanilla
+- Updated splash texts and sightly tweaked some and added more splash texts
+- Chests and copper chests now have a cubic [3D bottom model and texture](https://www.planetminecraft.com/texture-pack/vanilla-3d-chests/)
+- Ender chests now have an animated nether portal inside
+- Trapped chests have inside a tripwire hook
+- All chests now have proper break particles, instead of using their material type particle
+- Backported maps and filled maps from 26.3 snapshot 7
+- Replaced snapshot beacons with a much [lightweight and still consistent beacons](https://www.planetminecraft.com/texture-pack/yaboi-s-accurate-beacons/)
+- Beacons now have animated textures
+- The inside of beacons now glow in the dark
+- Added beacon beam fix from Vanilla Tweaks (26.2 only)
+- Added Story Mode clouds, now fixed when using Vulkan (26.2 only)
+	- Translated and added Story Mode clouds in 26.3 snapshot 9+
+- Fixed mangrove propagule showing missing texture when bonemealing
+- Added new texture for anvil's mace in GUI (Thanks to REGV!)
+- Fixed straw bed item model showing up too low in GUI
+- Piston sounds now have their vanilla sounds
+- Sulfur cubes now have proper bounce particles, matching slimes
+- Added new sulfur cube textures, now they match slime faces
+- Added a less obtrusive overlay texture for bogged
+- Strays now have a more pronounced mouth texture
+- Adult sniffers are now [pixel consistent with Minecraft's style](https://www.planetminecraft.com/texture-pack/non-hd-sniffer/)
+
 1.18 - Dark UI Update:
 
 Snapshot changes:
