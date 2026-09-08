@@ -1,3 +1,59 @@
+1.20 - The mini "flattening" update:
+
+`This version introduces a new organized style for future changelogs`
+
+## Changes:
+- Replaced glowing ores with a new optimized algorithm
+	- This successfully restores original ore borders from pack version 1.13
+- Removed redundant glowing ore textures for deepslate
+- Removed old glowing ores because the code was a total mess
+- Removed ´oretemplates´ folder from ´models > block´
+
+*Technical explanation:*
+
+Old glowing ores from pack version 1.13.1 calculated every pixel on the block and gave each one a light pixel individually. This made only the ore, but not the borders have an emmisive texture
+
+New glowing ores load up the base texture and the glow texture. The glow texture superimposes the base one, and it is given a light level, making the code much more optimized and more open to custom textures
+
+- Moved some items inside main folder instead of variations folder:
+	- Copper lanterns
+	- Copper torches
+	- Copper bars
+- Door items now rely on a single "template_door"
+- All containers textures loadouts now have been decreased by 2 pixels to fix consistency with new selection texture
+- Loadout texture for crafter GUI texture has been sightly recolored
+- Tweaked mace holding position, now matching correctly Bedrock Edition
+- Changed folder names for fog_88 and fog_93 to shaders_88 and shaders_93 respectively
+- Changed pack description, now includes version of the pack
+- Fixed underwater overlay added in pack version 1.6.4 not being completely visible
+- Fixed unlit redstone ore item not being unlit
+- Removed fencier fences due to overexcessive file editing cluttering pack's files
+- Removed some unused files:
+	- custom_fence_inventory
+	- custom_fence_post
+	- custom_fence_side_east
+	- custom_fence_side_west
+	- custom_fence_side_north
+	- custom_fence_side_south
+- End portal top textures are no longer animated
+- Fixed menu click sounds being applied to dispensers, levers and droppers
+- Zombie textures are now vanilla
+- Shulker textures except for Default and Black are now vanilla
+
+## Additions:
+- Added more pixels to clouds, as a way of bringing back old textures
+- Added glowing aura to end portal frames like Minecraft Dungeons (https://modrinth.com/resourcepack/emissive-end-portal)
+- Added new texture for end portal tops to match glowing aura textures
+- Added new texture for stonecutters, matching Minecraft Pocket Edition alpha =<0.12.0
+	- Fixed bottom texture for stonecutters
+- Added support for Gamma Utils resource pack, now Night Vision texture uses the same texture as resource pack
+- Added paleteless textures for dyes
+- Added loading colors for charging crossbows, matching charging bow textures
+- Added hotbar selection texture for GUI selection
+- Added unoxidized version of copper ore, raw copper and raw copper block for consistency with copper ingot
+- Added actual glass sides for cauldrons with water, powder snow and lava, as well as composter sides (https://www.planetminecraft.com/texture-pack/composter-and-cauldron-side-windows-2-0/)
+- Water in cauldrons now becomes tinted depending in different biome water colors
+
 1.19 - Fall drop update:
 - Updated pack to work in Minecraft version 26.3
 - Pack.mcmeta maximum version is now the latest snapshot resource pack version instead of a fixed number
