@@ -1,3 +1,64 @@
+1.20 - The mini-flattening (but not real flattening) update
+> Note: The version number is now matching Java Edition pack from now on
+> 
+`This version introduces a new organized changelog format`
+
+## Changes:
+- Updated pack to work in Minecraft version 26.40+
+- Pack minimum Minecraft version is now 26.30+
+- Changed pack.png icon to Evernight (I love her so much! <3)
+- Updated blocks.json file to format version 1.21.40 instead of 1.1.0
+- Updated terrain_texture.json to support this new format
+- Removed normal campfire ashless logs to match soul campfire
+- Fixed channeling sound for trident being not loud enough, matching Java Edition
+- Removed Dark UI (temporarily or permanently) from Default and Java subpacks, due to its removal in Java version :(
+- End portal texture is now darker instead of fully black
+- Reverted creeper face to its iconic, vanilla look
+- Removed unused legacy textures
+- Sightly tweaked pack description
+- Default subpack is now the recommended option to use in the resource pack
+- Updated splash texts and sightly tweaked some and added more splash texts
+- Fixed activator rail, detector rail and powered rail not having their dedicated textures
+- Piston sounds now have their vanilla sounds
+- Sticky pistons bottom texture now match Java Edition pack
+- Fixed bone meal texture not being applied correctly
+- Sheeps no longer have Java Edition pre-1.21.5 texture
+- Fixed chat panel closing when you receive a hit, for parity with Java Edition
+- Removed font texture as it's completely broken in Minecraft Beta 26.60
+
+## Java Edition parity:
+
+- Added Java styled item tooltips. This includes:
+	- Java Edition tooltip text (https://mcpedl.com/java-item-tooltip/)
+	- Java Edition tooltip no background texture
+- Added Java Edition creative hotbar (item count is now visible)
+- Added Java Chat panel UI (https://mcpedl.com/java-chat-v1/)
+- Added Java Edition F3 style for coordinates and days played
+- Reorganized version text and Mojang copyright positions in start screen and removed their backgrounds to match Java Edition
+
+# Additions:
+
+- Added directional end portals from Java pack 1.2 (after 5 years)
+- Added age 25 kelp from Java pack
+- Readded glowing armor trims [https://mcpedl.com/pandamines-luminous-trims/]
+- Added new frog spawn egg
+- All buttons now have a white outline when hovered combined with a blue highlight color
+- Added old styled textures for chicken and rabbit food (consistency with the other food textures)
+- Wolf armor is now plane, for consistency with player leather armor
+- Added round poplar logs
+- Added new beacon texture, based on Java 1.19 pack, however, it is purely 2D
+- Beacon texture is now animated
+- Added new anvil mace texture for anvil GUI (thanks to REGV!)
+- Added brewing stand guide in brewing stand GUI
+- Added new sulfur cube textures, now they match slime faces
+- Added a less obtrusive overlay texture for bogged
+- Strays now have a more pronounced mouth texture
+- Adult sniffers are now pixel consistent with Minecraft's style (https://www.planetminecraft.com/texture-pack/non-hd-sniffer/)
+- Added paleteless textures for dyes
+- GUI selecion texture now matches hotbar
+- Crossbow now has loading colors, matching charging bow textures
+- Added unoxidized version of copper ore, raw copper and raw copper block for consistency with copper ingot
+
 1.2 - A "tiny" technical and parity update
 - Updated pack to work on Minecraft version 26.10+
 - Pack minimum version is now Minecraft 26.10
