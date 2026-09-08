@@ -1,3 +1,18 @@
+1.20.1:
+## Additions:
+- Added old styled potion textures, this includes:
+	- Normal potions
+	- Splash potions
+	- Lingering potions
+		- These are included in brewing guide GUI as well
+- Added new potion icons for brewing stand GUI
+- Added new old styled dragon breath texture
+
+## Changes:
+- Fixed brewing guide not displaying correctly
+- Fixed brewing stand GUI blaze powder texture overlapping with vanilla blaze powder texture
+- Fixed poplar and pale oak log round tops not being consistent with other log textures
+
 1.20 - The mini "flattening" update:
 
 `This version introduces a new organized style for future changelogs`
