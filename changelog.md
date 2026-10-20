@@ -1,4 +1,4 @@
-1.20.1:
+# 1.20.1:
 ## Additions:
 - Added old styled potion textures, this includes:
 	- Normal potions
@@ -13,7 +13,7 @@
 - Fixed brewing stand GUI blaze powder texture overlapping with vanilla blaze powder texture
 - Fixed poplar and pale oak log round tops not being consistent with other log textures
 
-1.20 - The mini "flattening" update:
+# 1.20 - The mini "flattening" update:
 
 `This version introduces a new organized style for future changelogs`
 
@@ -69,7 +69,7 @@ New glowing ores load up the base texture and the glow texture. The glow texture
 - Added actual glass sides for cauldrons with water, powder snow and lava, as well as composter sides (https://www.planetminecraft.com/texture-pack/composter-and-cauldron-side-windows-2-0/)
 - Water in cauldrons now becomes tinted depending in different biome water colors
 
-1.19 - Fall drop update:
+# 1.19 - Fall drop update:
 - Updated pack to work in Minecraft version 26.3
 - Pack.mcmeta maximum version is now the latest snapshot resource pack version instead of a fixed number
 - Removed "incompatible resource pack" warning when using with Sodium
@@ -132,7 +132,7 @@ New glowing ores load up the base texture and the glow texture. The glow texture
 - Strays now have a more pronounced mouth texture
 - Adult sniffers are now [pixel consistent with Minecraft's style](https://www.planetminecraft.com/texture-pack/non-hd-sniffer/)
 
-1.18 - Dark UI Update:
+# 1.18 - Dark UI Update:
 
 Snapshot changes:
 - Updated pack to work in 26.3 snapshots
@@ -164,7 +164,7 @@ Normal changes:
 - Fixed armor stand bottom texture not being consistent with smooth stone texture
 - Removed dirt background in panorama and replaced it instead with the old white overlay from versions 1.15 and below
 
-1.17 - A "slight" technical update:
+# 1.17 - A "slight" technical update:
 - Reverted clouds to their original vanilla texture
 - Fixed sticky piston heads not showing proper textures
 - Fixed hanging signs logs not showing proper textures
@@ -182,7 +182,7 @@ Normal changes:
 - Crimson log and wood is now vanilla-like, no longer red colored
 
 
-1.16 - Tiny Takeover and Chaos Cubed drop update
+# 1.16 - Tiny Takeover and Chaos Cubed drop update
 - Updated pack to work in 26.1 and beyond
 - Pack minimum version is now 26.1, older versions not supported
 - Changed pack.png icon to Cyrene (she's too pretty!!)
@@ -206,7 +206,7 @@ This change was made at somepoint in 1.21 releases by moving all of them to its 
 - Added consistency for baby zombie piglins and zoglins textures to match their adult counterparts
 - Added arabic numerals for enchantments and potions for english and spanish languages
 
-1.15 - Fall and Copper drop update
+# 1.15 - Fall and Copper drop update
 - Updated pack to work in 1.21.9+
 - Pack minimum version is now 1.21.9, older versions aren't supported anymore
 - Removed unused folders for older versions
@@ -218,7 +218,7 @@ This change was made at somepoint in 1.21 releases by moving all of them to its 
 - Added 3D item models for copper lanterns and its variations
 - Added workaround classic fog for pre-release versions of 1.21.11
 
-1.14.1
+# 1.14.1
 - Updated pack to load in 1.21.9 snapshots
 (However, take note that some things are BROKEN due to pack.mcmeta being changed, this includes:
 	- New additions, such as axolotl unique items, unique paintings, happy ghasts, etc
@@ -230,7 +230,7 @@ Anyways, when I figure out how to fix backwards compatibility I'll surely update
 - Added zoglin and zombified piglin spawn egg consistent textures (previously they were pink, now they match)
 - Sightly tweaked hoglin, piglin brute and piglin spawn eggs to match zombified versions
 
-1.14.0 - Chase the Skies drop update!
+# 1.14.0 - Chase the Skies drop update!
 - Updated pack to work in 1.21.4 - 1.21.8
 - Resource pack minimum version is now 1.21.4
 - Added oarless pale oak boats
@@ -253,7 +253,7 @@ Anyways, when I figure out how to fix backwards compatibility I'll surely update
 - Added old styled textures for meat foods (porkchop, beef and mutton)
 - Added new sweeping edge sounds
 
-1.13.1 - The bundles of bravery update (full changelog):
+# 1.13.1 - The bundles of bravery update (full changelog):
 
 - Updated pack to work on 1.21.2 and 1.21.3
 - Added vanilla emmisive glowing ores (only works in MC 24w33a and beyond)
