@@ -1,4 +1,4 @@
-# Improved Vanilla (1.8.9 - 1.21.1 - 26.2+ - Bedrock 26.30+)
+# Improved Vanilla (1.8.9 - 1.21.1 - 26.1+ - Bedrock 26.30+)
 My personal resource pack, developed since the year 2020 and updated to latest versions, in both Java Edition and Bedrock Edition.
 
 A collection of my favorite vanilla tweaks merged in one single resource pack.
