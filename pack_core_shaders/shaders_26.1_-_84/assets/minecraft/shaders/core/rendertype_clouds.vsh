@@ -86,7 +86,7 @@ void main() {
     vec3 faceVertex = vertices[(direction * 4) + (isInsideFace ? 3 - quadVertex : quadVertex)];
     
     vec3 realCellSize = CellSize;
-    realCellSize.y *= 1.5; //3 is triple thickness
+    realCellSize.y *= 1.0; //3 is triple thickness
     vec3 pos = (faceVertex * realCellSize) + (vec3(cellX, 0, cellZ) * realCellSize) + CloudOffset;
     gl_Position = ProjMat * ModelViewMat * vec4(pos, 1.0);
 
