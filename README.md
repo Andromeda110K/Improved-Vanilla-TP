@@ -1,3 +1,6 @@
+<img width="512" height="162" alt="imprved_van!lla_java_ _bedrock_edition" src="https://github.com/user-attachments/assets/40e205cd-31ed-41f5-8c8d-b8336863f0e9" />
+
+
 # Improved Vanilla (1.8.9 - 1.21.1 - 26.1+ - Bedrock 26.30+)
 My personal resource pack, developed since the year 2020 and updated to latest versions, in both Java Edition and Bedrock Edition.
 
